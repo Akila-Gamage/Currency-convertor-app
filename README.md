@@ -27,6 +27,15 @@ Features
 <li>LKR to EUR</li>
 </ul>
 
+<h2>Installation</h2>
+<ol>
+<li>Clone the repository:
+<pre><code>git clone https://github.com/Akila-Gamage/Currency-convertor-app.git</code></pre>
+</li>
+<li>Open the project in Xcode.</li>
+<li>Build and run the app on your preferred iOS device or simulator.</li>
+</ol>
+
 <h2>Usage</h2>
 
 1. Launch the app.
